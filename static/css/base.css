@@ -7,7 +7,11 @@ body {
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
-    font-family: 'Lato';
+    font-family: 'Indie Flower';
+}
+
+header {
+    background-color: rgb(213, 195, 173);
 }
 
 /* from Bulma */
@@ -23,18 +27,25 @@ body {
     text-transform: uppercase;
 }
 
+.display-4 {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
 .main-logo-link {
     width: fit-content;
+    color: black;
 }
 
 .shop-now-button {
-    background: black;
+    background: rgb(189, 88, 57);
     color: white;
     min-width: 260px;
+    padding-bottom: 120px;
 }
 
 .btn-black {
-    background: black;
+    background: rgb(174, 96, 47);
     color: white;
 }
 
@@ -44,16 +55,20 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
+    background: rgb(170, 99, 52);
     color: white;
 }
 
 .text-black {
-    color: #000 !important;
+    color: rgb(12, 12, 11) !important;
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid rgb(176, 99, 57) !important;
+}
+
+.nav-link {
+    font-size: large;
 }
 
 /* -------------------------------- Media Queries */
@@ -75,7 +90,4 @@ body {
         z-index: 1030;
     }
 
-    .header-container {
-        padding-top: 164px;
-    }
 }
