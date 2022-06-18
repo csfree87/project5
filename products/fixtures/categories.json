@@ -1,0 +1,37 @@
+[{
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+        "name": "floral/herbal",
+        "friendly_name": "Floral/Herbal"
+    }
+}, {
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+        "name": "woody/smokey",
+        "friendly_name": "Woody/Smokey"
+    }
+}, {
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+        "name": "spice",
+        "friendly_name": "Spice"
+    }
+}, {
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+        "name": "musk",
+        "friendly_name": "Musk"
+    }
+}, {
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+        "name": "tropical/citrus",
+        "friendly_name": "Tropical/Citrus"
+    }
+}]
+  

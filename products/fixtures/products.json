@@ -1,0 +1,78 @@
+[{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "name": "Vanilla Sky",
+        "description": "A soft comforting scent with a hint of vanilla",
+        "price": 40.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}, {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+        "name": "Lavender Dreams",
+        "description": "Like standing in a field of lavender, this subtle note is sure to make you daydream",
+        "price": 35.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}, {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+        "name": "Pining",
+        "description": "A woody scent of pine and forest after a summer rain",
+        "price": 30.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}, {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+        "name": "Ember nights",
+        "description": "For those who enjoy classic sweet smell of incense in a more subtle fashion",
+        "price": 50.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}, {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+        "name": "Mandarin Morning",
+        "description": "A fresh citrusy fragrance with a base of mandarin oranges and a hint of eucalyptus",
+        "price": 35.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}, {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+        "name": "Cinnamon Crush",
+        "description": "Spicy cinnamon notes for winter evenings",
+        "price": 42.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}, {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+        "name": "Teen Spirit",
+        "description": "A musky fragrances that'll make you irresistable",
+        "price": 45.00,
+        "category": 1,
+        "image_url": "",
+        "image": ""
+    }
+}]
